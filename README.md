@@ -50,6 +50,10 @@ http://www.huaxiaozhuan.com/
 课程地址：
 https://github.com/carsonzhu/DeepLearning-500-questions
 
+>15. 《动手学深度学习》**--推荐--**
+学习主页：[https://zh.gluon.ai/](https://zh.gluon.ai/)
+项目地址：[https://github.com/d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
+
 
 ## Codes
 >Machine Learning code in Python3.x.: [https://github.com/stonycat/ML-in-Action-Code-and-Note](https://github.com/stonycat/ML-in-Action-Code-and-Note)
